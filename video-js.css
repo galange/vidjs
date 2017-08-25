@@ -1404,3 +1404,10 @@ video::-webkit-media-text-track-display {
     display: block;
     left: 0em
 }
+
+.video-js .vjs-big-play-button {
+    left: 50% !important;
+    top: 50% !important;
+    margin-left: -1em !important;
+    margin-top: -1.4em !important;
+}
